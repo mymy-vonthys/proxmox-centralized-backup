@@ -8,7 +8,6 @@
 ![rsync](https://img.shields.io/badge/rsync-over_SSH-blue)
 ![Status](https://img.shields.io/badge/Status-In_production-brightgreen)
 
-> **About this document:** This is a sanitized portfolio version of an internal system document. Company name, IP addresses, hostnames, VM/CT names and IDs, file paths, and application names are replaced with dummy values. Schedule times and measured results are representative of the real system. No credentials were ever included.
 
 ---
 
@@ -474,5 +473,5 @@ This is one of three connected infrastructure case studies on the same Proxmox e
 
 ## Author
 
-**Hilmy Sonaji**, IT Infrastructure
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Hilmy Sonaji**
+[GitHub](https://github.com/hilmy-sonaji) · [LinkedIn](https://linkedin.com/in/hilmy-sonaji-90908527a)
