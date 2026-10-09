@@ -466,8 +466,8 @@ This is one of three connected infrastructure case studies on the same Proxmox e
 
 | Project | How it relates |
 |---|---|
-| [Live HDD → SSD Migration](https://github.com/your-username/proxmox-hdd-to-ssd-migration) | The audit in this repo was run before the second SSD of that server was released. |
-| [Production Monitoring Stack](https://github.com/your-username/proxmox-monitoring-stack) | Its backup archive is one of this hub's sources, and backup logs are checked as part of its daily routine. |
+| [Live HDD → SSD Migration](https://github.com/mymy-vonthys/proxmox-hdd-to-ssd-migration) | The audit in this repo was run before the second SSD of that server was released. |
+| [Production Monitoring Stack](https://github.com/mymy-vonthys/proxmox-monitoring-stack) | Its backup archive is one of this hub's sources, and backup logs are checked as part of its daily routine. |
 
 ---
 
